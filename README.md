@@ -73,7 +73,7 @@ Cross-trading is strictly forbidden for any user with no exception and will be s
 - Do not share personal information, including passwords, addresses, or financial details, through the bot.
 
 A more detailed privacy policy that details what data is collected is available at this link: 
-https://docs.google.com/document/d/1nkVQ5RlLIWA6RTlKyD9FoL7dNFJhD3NAw0JjRCDeluQ/edit?usp=sharing
+https://github.com/burenter/ObjectDex-Privacy-Policy/blob/main/README.md
 
 6. Moderation:
 Authority of Bot Administrators and Moderators
@@ -93,7 +93,7 @@ Discretion of Enforcement
 The severity of actions taken will be determined by the bot administrators and moderators based on the nature and impact of the violation.
 
 7. Changes to Terms and Rules:
-- The terms of service and rules might be updated at any time. Users will be notified of changes through the Discord server: https://discord.gg/RjzXFsS8kj's announcements channels, and continued use of the bot will imply agreement to the modified terms.
+- The terms of service and rules might be updated at any time. Users will be notified of changes through the Discord server: https://discord.gg/RjzXFsS8kj announcements channels, and continued use of the bot will imply agreement to the modified terms.
 
 8. Liability:
 - The ObjectDex team is not responsible for any loss, damage, or inconvenience caused by the use of the bot. Use the bot at your own risk.
