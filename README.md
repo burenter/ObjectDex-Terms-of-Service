@@ -1,5 +1,4 @@
-# ObjectDex-Terms-of-Service
-ObjectDex Discord Bot - Terms of Service and Rules
+## ObjectDex Discord Bot - Terms of Service and Rules
 
 Welcome to ObjectDex, the interactive countryball-catching and trading Discord bot! Before you start using ObjectDex, please carefully read and agree to the following Terms of Service and Rules. By using ObjectDex, you indicate your acceptance of these terms and your commitment to adhere to the rules.
 
